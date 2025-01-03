@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @tiao2
-- 👀 I’m interested in Web page creation
-- 🌱 I’m currently learning Javascript
+- Hi, I’m @tiao2
+- I’m interested in Web page creation
+- I’m currently learning Javascript
+- I'm named tiaotiao in [Turtle Universe](https://turtlesim.com/tuc).
